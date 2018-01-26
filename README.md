@@ -24,6 +24,7 @@
 # Sanity Checks
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/ExactTarget/fuelux.svg)](https://greenkeeper.io/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Ffuelux.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Ffuelux?ref=badge_shield)
 [Fuel UX](http://getfuelux.com/)
 [![Bower version](https://badge.fury.io/bo/fuelux.svg)](http://badge.fury.io/bo/fuelux)
 [![npm version](https://badge.fury.io/js/fuelux.svg)](https://www.npmjs.com/package/fuelux)
@@ -159,3 +160,6 @@ Thank you to all those that have submitted issues and contributed to this librar
 Copyright &copy; 2012-2014 Salesforce Marketing Cloud, Inc.
 
 View [BSD-3 license](https://github.com/ExactTarget/fuelux/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Ffuelux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Ffuelux?ref=badge_large)
